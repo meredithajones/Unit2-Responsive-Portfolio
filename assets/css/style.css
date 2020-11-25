@@ -18,4 +18,13 @@ body > .container {
   .text-muted{
     color: seashell !important;
   }
+
+  .img{
+    height: 200px;
+    padding: 25px;
+  }
+
+  .paragraph{
+    float:right !important
+  }
   
